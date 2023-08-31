@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 안녕하세요.
+
+### How to reach me
+- E-mail : sekim520@gmail.com
+- [Linked-In](https://www.linkedin.com/in/%EC%84%B1%EC%9D%80-%EA%B9%80-574373273/)
+- [Blog](https://i-mprovising.github.io)
 
 <!--
 **i-mprovising/i-mprovising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
