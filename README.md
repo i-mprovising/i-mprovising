@@ -3,7 +3,7 @@
 ### How to reach me
 - E-mail : sekim520@gmail.com
 - [Linked-In](https://www.linkedin.com/in/%EC%84%B1%EC%9D%80-%EA%B9%80-574373273/)
-- [Blog](https://i-mprovising.github.io)
+- [Blog]([https://i-mprovising.github.io](https://improvising.tistory.com/))
 
 <!--
 **i-mprovising/i-mprovising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
